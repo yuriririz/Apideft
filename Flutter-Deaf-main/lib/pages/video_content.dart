@@ -18,7 +18,7 @@ class _VideoContentPageState extends State<VideoContentPage> {
   @override
   void initState() {
     super.initState();
-    futureContent = ContentsApi.futureContentApi();
+    // futureContent = ContentsApi.futureContentApi();
     loadVideoPlayer();
   }
 

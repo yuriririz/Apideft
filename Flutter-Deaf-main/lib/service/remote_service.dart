@@ -1,4 +1,4 @@
-import 'package:app_deaf/models/post.dart';
+// import 'package:app_deaf/models/post.dart';
 import 'package:http/http.dart' as http;
 
 class RemoteService {
